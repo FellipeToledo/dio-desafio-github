@@ -1,6 +1,9 @@
-# Desafio de projeto Digital Innovation One GIT-GITHUB
+<h1 align="center">Desafio de projeto Digital Innovation One GIT-GITHUB</h1>
 Repositório criado para o Desafio de projeto Git/Github da plataforma DIO.
 Para esse desafio foi criado um projeto base para aplicação Spring Boot web utilizando Spring initializr com as seguintes dependências.
+
+##
+
 - [Spring Web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web)
 - [Spring Data JPA](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa)
 - [Spring Boot DevTools](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools)
