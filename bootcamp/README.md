@@ -4,11 +4,15 @@
 
 Para esse desafio foi criado um projeto ...
 
-### Dependencias
+##
+
+### Dependências
 
 - [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok)
 
-## Links úteis
+##
+
+### Links úteis
 
 - [Crie arquivos .gitignore úteis para o seu projeto.](https://www.toptal.com/developers/gitignore)
 
