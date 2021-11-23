@@ -2,7 +2,7 @@
 Repositório criado para os Desafios de projeto da plataforma DIO.
 
 - [Git-GitHub](https://github.com/FellipeToledo/projetosDIO/tree/main/git-github) ☕
-- [Bootcamp-POO](https://github.com/FellipeToledo/projetosDIO/tree/main/bootcamp-poo) ☕
+- [Bootcamp](https://github.com/FellipeToledo/projetosDIO/tree/main/bootcamp) ☕
 
 
 
